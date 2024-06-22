@@ -13,4 +13,4 @@ Integration with Stream Pipelines: Understand how filter can be seamlessly integ
 
 Performance Optimization: Discover strategies for optimizing performance by strategically applying filters early in stream pipelines.
 
-Contents
+
