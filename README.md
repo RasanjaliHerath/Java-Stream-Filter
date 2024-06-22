@@ -1,7 +1,7 @@
 # Java Stream Filter
  In Java Stream API, the filter method is used to filter elements based on a given predicate.
  
- #Java Stream filter Examples
+ Java Stream filter Examples
 Welcome to the Java Stream filter Examples repository! This repository provides a collection of Java code examples demonstrating the versatile use of the filter method in Java Stream API. The filter method allows you to selectively process elements in a stream based on specified conditions, making it essential for efficient data manipulation and transformation tasks.
 
 Features
